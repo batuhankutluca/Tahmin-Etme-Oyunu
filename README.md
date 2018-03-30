@@ -1,4 +1,5 @@
-# Telegram Weather Bot
+# Tahmin Etme Oyunu
+
 
 ### Proje ekibi:
 - [Ali Tolgahan Dikici](https://github.com/AliTolgahan)
